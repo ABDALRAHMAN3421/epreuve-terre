@@ -1,1 +1,0 @@
-print('J’ai terminé l’Épreuve de la Terre et cétait pas facile')
